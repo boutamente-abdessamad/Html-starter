@@ -1,0 +1,55 @@
+/*
+    Media queres
+    Responsive File
+*/
+
+/* ./Large Labtops  */
+
+@media (min-width: 1380px) {
+    .container {
+        max-width: 1310px;
+    }
+}
+
+/* ./Large Labtops  */
+
+/* small Labtops  */
+
+@media (max-width: 1380px) {
+    .container {
+        max-width: 1140px;
+    }
+
+}
+
+/* small Labtops  */
+
+/* Large Tablesttes  */
+
+@media (max-width: 1024px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+/* ./Large Tablesttes  */
+
+/* small Tablesttes  */
+
+@media (max-width: 768px) {
+  .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+}
+
+/* small Tablesttes  */
+
+/* small mobiles  */
+
+@media (max-width: 480px) {
+  
+}
+
+/* ./small mobiles  */

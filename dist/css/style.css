@@ -1,0 +1,98 @@
+/* ---------------------------------------------------------------------------- */
+/* -------------------------------- Main  STYLES ----------------------------- */
+/* ---------------------------------------------------------------------------- */
+
+
+/*--------------------- Fonts ----------------*/
+@font-face {
+    font-family: "adam";
+    font-display: fallback;
+    src: url("../fonts/Adam.otf");
+}
+
+@font-face {
+    font-family: "Roboto-Regular";
+    font-display: fallback;
+    src: url("../fonts/roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Black";
+    font-display: fallback;
+    src: url("../fonts/roboto/Roboto-Black.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Medium";
+    font-display: fallback;
+    src: url("../fonts/roboto/Roboto-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Bold";
+    font-display: fallback;
+    src: url("../fonts/roboto/Roboto-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Light";
+    font-display: fallback;
+    src: url("../fonts/roboto/Roboto-Light.ttf");
+}
+
+@font-face {
+    font-family: "Poppins-Light";
+    font-display: fallback;
+    src: url("../fonts/poppins/Poppins-Light.otf");
+}
+
+@font-face {
+    font-family: "Poppins-ExtraBold";
+    font-display: fallback;
+    src: url("../fonts/poppins/Poppins-ExtraBold.otf");
+}
+
+@font-face {
+    font-family: "Poppins-Medium";
+    font-display: fallback;
+    src: url("../fonts/poppins/Poppins-Medium.otf");
+}
+
+@font-face {
+    font-family: "Roboto-Condensed-light";
+    font-display: fallback;
+    src: url("../fonts/roboto/RobotoCondensed-Light.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Condensed-Bold";
+    font-display: fallback;
+    src: url("../fonts/roboto/RobotoCondensed-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Condensed-Regular";
+    font-display: fallback;
+    src: url("../fonts/roboto/RobotoCondensed-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Poppins-ExtraLight";
+    font-display: fallback;
+    src: url("../fonts/poppins/Poppins-ExtraLight.otf");
+}
+
+@font-face {
+    font-family: "Roboto-Medium";
+    font-display: fallback;
+    src: url("../fonts/roboto/Roboto-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Blacksword";
+    font-display: fallback;
+    src: url("../fonts/poppins/Blacksword.otf");
+}
+
+/*-------------- End Fonts -------------------*/
+
